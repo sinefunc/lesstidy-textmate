@@ -1,0 +1,3 @@
+[submodule "CSS (LessTidy).tmbundle/Support/lesstidy"]
+	path = CSS (LessTidy).tmbundle/Support/lesstidy
+	url = git://github.com/sinefunc/lesstidy.git
